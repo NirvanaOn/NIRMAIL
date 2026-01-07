@@ -62,33 +62,12 @@ The project is intended for **learning, auditing, and security review**, not exp
 
 ---
 
-## 🧠 Design Philosophy
-
-Most tools provide only a verdict.  
-NIRMAIL provides **controlled, minimal explanation**—enough to understand the result  
-without revealing internal logic that could be misused.
-
-- No exploit guidance
-- No unsafe assumptions
-- No hidden trust shortcuts
-
----
-
 ## ⚠️ Notes
 
 - ARC is informational only
 - DKIM failures may occur during forwarding
 - DMARC decisions strictly follow published policy
 - Analysis-only tool — no email transmission
-
----
-
-## 📌 Summary
-
-- Simple and professional
-- Safe by design
-- Standards-aligned
-- Suitable for internship and academic use
 
 ---
 
