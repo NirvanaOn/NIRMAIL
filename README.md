@@ -6,6 +6,9 @@ NIRMAIL is a **standards-focused email authentication analysis tool** designed t
 
 The project is intended for **learning, auditing, and security review**, not exploitation.
 
+<img width="1919" height="920" alt="Screenshot 2026-01-10 100205" src="https://github.com/user-attachments/assets/2b686053-3456-47bf-8d8f-738142864454" />
+
+
 ---
 
 ## 🎯 Purpose
